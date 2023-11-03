@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 
 import Header from './assets/Components/Header.jsx'
 import ThoughtList from './assets/Components/ThoughtList.jsx';
